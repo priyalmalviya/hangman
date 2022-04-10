@@ -1,4 +1,5 @@
 # Hangman
+https://priyalmalviya.github.io/hangman/
  ``Hangman`` game is a word guessing game.
 *  Used JAVASCRIPT to build a very simple ``HANGMAN``like game.
  
